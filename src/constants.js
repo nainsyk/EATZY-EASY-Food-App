@@ -10,11 +10,11 @@ export const ITEM_IMG_CDN_URL =
  
 // Swiggy API to get Restaurant data with corsproxy
 export const swiggy_api_URL =
-"https://foodfire.onrender.com/api/restaurants?lat=21.1702401&lng=72.83106070000001&page_type=DESKTOP_WEB_LISTING";
+"https://www.swiggy.com/dapi/restaurants/list/v5?lat=28.4594965&lng=77.0266383&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING";
 
   // Swiggy API to get Restaurant Menu data with corsproxy
 export const swiggy_menu_api_URL =
-"https://foodfire.onrender.com/api/menu?page-type=REGULAR_MENU&complete-menu=true&lat=21.1702401&lng=72.83106070000001&&submitAction=ENTER&restaurantId=";
+"https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=21.1702401&lng=72.83106070000001&&submitAction=ENTER&restaurantId=";
   
 export const shimmer_card_unit = 20;
 
