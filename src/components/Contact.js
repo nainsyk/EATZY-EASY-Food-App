@@ -9,7 +9,7 @@ const Contact = () => {
   return (
     <div className="contact-container">
       <div className="contact-left">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_xYJPYPdpsteLw5vxWfg7BMZeiK3821n6Fc-EhmRCH6jHDQFr" alt="" />
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrmPAlQqhODP3rW49qzzd_cYeupADZI4nmoq0y-e6PnN0g3WzV5H3ZURqsfA&s" alt="" />
       </div>
       <div className="contact-right">
       <h1>Contact us</h1>
